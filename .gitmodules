@@ -1,3 +1,6 @@
 [submodule "bases"]
 	path = bases
 	url = https://github.com/WencesReyes/bases-angular-mini-project.git
+[submodule "gifs-app"]
+	path = gifs-app
+	url = https://github.com/WencesReyes/gifs-app.git
