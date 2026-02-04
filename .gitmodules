@@ -4,3 +4,6 @@
 [submodule "gifs-app"]
 	path = gifs-app
 	url = https://github.com/WencesReyes/gifs-app.git
+[submodule "country-app"]
+	path = country-app
+	url = https://github.com/WencesReyes/country-app.git
